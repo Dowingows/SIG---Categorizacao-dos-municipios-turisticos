@@ -1,0 +1,9 @@
+
+Categorização dos Municípios Turísticos
+
+Categorização é um instrumento elaborado pelo Ministério do Turismo para identificar o desempenho da economia do setor nos municípios que constam no Mapa do Turismo Brasileiro. Esse instrumento, previsto como uma estratégia de implementação do Programa de Regionalização do Turismo, permite tomar decisões mais acertadas e implementar políticas que respeitem as peculiaridades dos municípios brasileiros.
+A categorização foi feita pela equipe do Ministério do Turismo. Devido à quantidade de municípios inseridos nas 291 regiões turísticas do Mapa do Turismo Brasileiro (2.175), foram utilizados dados já existentes, disponíveis para todo o Brasil, que pudessem ser atualizados periodicamente e que traduzissem a economia do turismo. A partir daí se chegou a quatro variáveis que foram cruzadas em uma análise de cluster e deram origem a cinco categorias de municípios (A, B, C, D e E).
+
+Vale destacar que, no processo de construção da metodologia de categorização, o MTur aproveitou as experiências de vários estados que já haviam desenvolvido instrumentos similares e possibilitou a discussão e a contribuição de órgãos estaduais e municipais de turismo e seus colegiados de assessoramento.
+
+Fonte: http://dados.gov.br/dataset/categorizacao
